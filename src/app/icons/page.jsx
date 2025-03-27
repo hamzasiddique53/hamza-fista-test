@@ -327,7 +327,7 @@ export default function Navbar () {
               }`}
             >
               <div className='flex items-center space-x-2'>
-                <Image src='/logo.png' alt='AI Emojis' width={32} height={32} />
+                <Image src={logo} alt='AI Emojis' width={32} height={32} />
                 <span className='text-lg font-bold'>AI Emojis</span>
               </div>
 
